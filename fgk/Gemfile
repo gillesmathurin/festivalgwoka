@@ -39,8 +39,11 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
 # 
 # Application gems
 # 
+
 gem 'ember-rails'
 gem 'ember-source', '1.5.0'
+gem 'bootstrap-sass', '~> 3.1.1'
