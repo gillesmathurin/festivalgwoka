@@ -14,3 +14,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+fgk.sublime-project
+fgk.sublime-workspace
+.ruby-version
